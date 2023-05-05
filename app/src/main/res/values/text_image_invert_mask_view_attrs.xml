@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextImageInvertMaskView" >
+        <attr name="textDrawable" format="reference" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textY" format="dimension" />
+        <attr name="textX" format="dimension" />
+        <attr name="text" format="string" />
+        <attr name="fontName" format="string" />
+    </declare-styleable>
+</resources>
