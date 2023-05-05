@@ -1,6 +1,6 @@
 
 # TextImageInvertMaskView
-이미지 위의 반전된 텍스트를 그리는 Android View
+이미지 위의 반전된 텍스트를 그리는 Android View<br>
 Text Inverted Mask View for Android
 
 <img src="Readme_textImageInvertMaskCrop.gif">
